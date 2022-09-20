@@ -10,7 +10,7 @@
 Это не библиотека, а набор независимых скриптов на [Python](https://www.python.org/)! Таким образом, в скриптах есть небольшое повторение кода.
 
 # Быстрый старт для новичков
-Инструкцию, предлагаемую автором проекта, можно прочитать в оригинальном [readme](https://github.com/S-LABc/Chaos-lang-ru/blob/master/README_ORIG.md). Я использовал немного другой способ.
+Инструкцию, предлагаемую автором проекта, можно прочитать в оригинальном [readme](https://github.com/S-LABc/Chaos-ru-lang/blob/main/README_ORIG.md). Я использовал немного другой способ.
 - Тестирование проводилось на Python 3.7.9 под ОС Windows 10
 - Для редактирования скриптов можно использовать [Notepad++](https://notepad-plus-plus.org/downloads/)
 #### Установить
@@ -44,7 +44,7 @@
 ```
 python logistic_interactive.py
 ```
-![Interactive](https://github.com/S-LABc/Chaos-lang-ru/blob/master/images/logistic-interactive-ru.png?raw=true)
+![Interactive](https://github.com/S-LABc/Chaos-ru-lang/blob/main/images/logistic-interactive-ru.png?raw=true)
 #### Дополнительные пакеты
 - Модуль графического фреймворка [PyQt5](https://pypi.org/project/PyQt5/) :
     ```
@@ -66,7 +66,7 @@ python logistic_interactive.py
 ```
 python logistic_mandelbrot.py
 ```
-![Mandelbrot Set within Logistic Map GIF](https://github.com/S-LABc/Chaos-lang-ru/blob/master/images/logistic-mandelbrot.gif?raw=true)
+![Mandelbrot Set within Logistic Map GIF](https://github.com/S-LABc/Chaos-ru-lang/blob/main/images/logistic-mandelbrot.gif?raw=true)
 #### Дополнительные пакеты
 - Модуль визуализации 2D/3D на основе OpenGL [Vispy](http://vispy.org) :
     ```
@@ -91,7 +91,7 @@ python logistic_mandelbrot.py
 ```
 python logistic_zoom.py
 ```
-![Logistic Map Zoom GIF](https://github.com/S-LABc/Chaos-lang-ru/blob/master/images/logistic-zoom.gif?raw=true)
+![Logistic Map Zoom GIF](https://github.com/S-LABc/Chaos-ru-lang/blob/main/images/logistic-zoom.gif?raw=true)
 #### Дополнительные пакеты
 - Модуль для визуализаций 2D/3D на основе OpenGL [Vispy](http://vispy.org) :
     ```
