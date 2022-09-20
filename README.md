@@ -104,7 +104,7 @@ python logistic_zoom.py
 - Запятая: симуляция предыдущей итерации (назад)
 
 ## Создание исполняемого файла
-Будет работать только со скриптом "Логистическое отображение". Исполняемый файл для ОС Windows есть в [релизах](https://github.com/S-LABc/Chaos-lang-ru/releases), работает без Python
+Будет работать только со скриптом "Логистическое отображение". Исполняемый файл для ОС Windows есть в [релизах](https://github.com/S-LABc/Chaos-ru-lang/releases), работает без Python
 #### Установить
 - Модуль [PyInstaller](https://pypi.org/project/pyinstaller/) :
 ```
